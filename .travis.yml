@@ -1,6 +1,6 @@
 dist: xenial
 language: java
-sudo: falsd
+sudo: false
 jdk: openjdk14
 install: true
 cache:
