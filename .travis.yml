@@ -1,5 +1,5 @@
 dist: xenial
-language: java
+language: jav
 sudo: false
 jdk: openjdk14
 install: true
